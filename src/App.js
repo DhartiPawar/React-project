@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <>
-    <h1>dharti</h1>
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
     <a className="navbar-brand" href="/">TextUtensils</a>
